@@ -1,0 +1,88 @@
+﻿Reference,Method,Cultivar,Species,Isolates,MeanLesionLength,sd
+Xu et al. 2015,Detached stem,Bluecrop,L. theobromae,SHSJ6,28.2,9.2
+Xu et al. 2015,Detached stem,Bluecrop,L. theobromae,ZJXCSX2,26.4,9.3
+Xu et al. 2015,Detached stem,Bluecrop,N. parvum,SCDY2-1,29.4,11.7
+Xu et al. 2015,Detached stem,Bluecrop,N. parvum,SCDY3-2,30.9,13.1
+Xu et al. 2015,Detached stem,Bluecrop,N. parvum,FJCT4-3,31.2,13.6
+Xu et al. 2015,Detached stem,Bluecrop,N. parvum,ZJXC3,29.4,13.2
+Xu et al. 2015,Detached stem,Bluecrop,N. parvum,YNSL6-2B,26.9,10.2
+Xu et al. 2015,Detached stem,Bluecrop,N. parvum,SHSJ2-2,31.9,11.7
+Xu et al. 2015,Detached stem,Bluecrop,B. dothidea,LNXC13-2,15.3,5.1
+Xu et al. 2015,Detached stem,Bluecrop,B. dothidea,ZJXC1-1,13.2,5.6
+Xu et al. 2015,Detached stem,Bluecrop,B. dothidea,SCDY7-1,11.2,3.1
+Xu et al. 2015,Detached stem,Bluecrop,B. dothidea,SD-B8,12.9,5.8
+Xu et al. 2015,Detached stem,Bluecrop,B. dothidea,SHSJ1-1,9.5,1.4
+Xu et al. 2015,Detached stem,Bluecrop,B. dothidea,FJCT4-1,11.4,2.9
+Xu et al. 2015,Detached stem,Bluecrop,B. dothidea,JSGY7,11.1,3.4
+Xu et al. 2015,Detached stem,Bluecrop,B. dothidea,LNZHA2-1,11.2,2.6
+Xu et al. 2015,Attached stem,Bluecrop,L. theobromae,SHSJ6,47.1,29.6
+Xu et al. 2015,Attached stem,Bluecrop,L. theobromae,ZJXCSX2,16.1,12.1
+Xu et al. 2015,Attached stem,Bluecrop,N. parvum,SCDY2-1,50.5,24.7
+Xu et al. 2015,Attached stem,Bluecrop,N. parvum,SCDY3-2,21.7,8.6
+Xu et al. 2015,Attached stem,Bluecrop,N. parvum,FJCT4-3,11.8,3.5
+Xu et al. 2015,Attached stem,Bluecrop,N. parvum,ZJXC3,41.7,16.4
+Xu et al. 2015,Attached stem,Bluecrop,N. parvum,YNSL6-2B,56,16.8
+Xu et al. 2015,Attached stem,Bluecrop,N. parvum,SHSJ2-2,33.8,19.3
+Xu et al. 2015,Attached stem,Bluecrop,B. dothidea,LNXC13-2,10,0.7
+Xu et al. 2015,Attached stem,Bluecrop,B. dothidea,ZJXC1-1,11,1.6
+Xu et al. 2015,Attached stem,Bluecrop,B. dothidea,SCDY7-1,12,1.9
+Xu et al. 2015,Attached stem,Bluecrop,B. dothidea,SD-B8,11.5,1.4
+Xu et al. 2015,Attached stem,Bluecrop,B. dothidea,SHSJ1-1,9.3,0.7
+Xu et al. 2015,Attached stem,Bluecrop,B. dothidea,FJCT4-1,8.9,0.9
+Xu et al. 2015,Attached stem,Bluecrop,B. dothidea,JSGY7,9.9,0.6
+Xu et al. 2015,Attached stem,Bluecrop,B. dothidea,LNZHA2-1,8.6,1.3
+Guarnaccia et al. 2020,Attached stem,Duke,N. parvum,NA,5.8,NA
+Scarlett et al. 2018,Detached stem,C42-99,N. macroclavatum,NA,NA,NA
+Scarlett et al. 2018,Detached stem,C42-99,B. dothidea,NA,NA,NA
+Scarlett et al. 2018,Detached stem,C42-99,N. occulatum,NA,NA,NA
+Scarlett et al. 2018,Detached stem,C42-99,L. pseudotheobromae,NA,NA,NA
+Scarlett et al. 2018,Detached stem,C42-99,N. kwambonambiense,NA,NA,NA
+Scarlett et al. 2018,Detached stem,C42-99,N. parvum,NA,NA,NA
+Scarlett et al. 2018,Detached stem,C42-99,L. theobromae,NA,NA,NA
+Scarlett et al. 2018,Detached stem,C42-99,N. australe,NA,NA,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. australe,LUPP1281,20.1,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. australe,LUPP1301,29.3,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. australe,LUPP1364,51.7,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. australe,LUPP1321,58.1,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. luteum,LUPP1320,55.8,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. luteum,LUPP1332,58.1,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. luteum,LUPP1308,59.7,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. luteum,LUPP1357,66.4,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. parvum,LUPP1249,63.3,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. parvum,LUPP128,75.5,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. parvum,LUPP1363,76.3,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. parvum,LUPP1288,85.4,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. ribis,LUPP1340,67.8,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. ribis,LUPP1348,73.2,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. ribis,LUPP1365,78.3,NA
+Tennakoon et al. 2018,Detached stem,Dolce blue,N. ribis,LUPP1300,91.4,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. australe,LUPP1281,20.4,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. australe,LUPP1301,23.7,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. australe,LUPP1364,17.6,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. australe,LUPP1321,19.4,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. luteum,LUPP1320,30.4,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. luteum,LUPP1332,20.1,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. luteum,LUPP1308,25.6,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. luteum,LUPP1357,27.1,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. parvum,LUPP1249,34.5,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. parvum,LUPP128,37.5,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. parvum,LUPP1363,28.2,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. parvum,LUPP1288,24.4,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. ribis,LUPP1340,34.6,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. ribis,LUPP1348,47.6,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. ribis,LUPP1365,31,NA
+Tennakoon et al. 2018,Detached stem/hardwood,Dolce blue,N. ribis,LUPP1300,29.4,NA
+Espinoza et al. 2009,Attached stem,Brigitta,N. arbuti,B03-07,13.7,NA
+Espinoza et al. 2009,Attached stem,Brigitta,N. arbuti,B09-07,14,NA
+Espinoza et al. 2009,Attached stem,Brigitta,N. arbuti,B62-07,13.3,NA
+Espinoza et al. 2009,Attached stem,Brigitta,N. australe,B1-05,26,NA
+Espinoza et al. 2009,Attached stem,Brigitta,N. parvum,B1-06,44,NA
+Espinoza et al. 2009,Attached stem,Brigitta,N. parvum,B4.2-06,NA,NA
+Espinoza et al. 2009,Attached stem,Brigitta,N. parvum,B02-07,95.5,NA
+Espinoza et al. 2009,Attached stem,O'Neal,N. arbuti,B03-07,12.5,NA
+Espinoza et al. 2009,Attached stem,O'Neal,N. arbuti,B09-07,11.3,NA
+Espinoza et al. 2009,Attached stem,O'Neal,N. arbuti,B62-07,11.3,NA
+Espinoza et al. 2009,Attached stem,O'Neal,N. australe,B1-05,17.5,NA
+Espinoza et al. 2009,Attached stem,O'Neal,N. parvum,B1-06,63.9,NA
+Espinoza et al. 2009,Attached stem,O'Neal,N. parvum,B4.2-06,NA,NA
+Espinoza et al. 2009,Attached stem,O'Neal,N. parvum,B02-07,70.7,NA
